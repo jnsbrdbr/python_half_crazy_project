@@ -1,0 +1,1 @@
+# python_half_crazy_project
